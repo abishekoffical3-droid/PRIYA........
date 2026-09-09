@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PRIYA AI</string>
+    <string name="accessibility_service_description">PRIYA AI Hands-Free Assistant uses this service to read on-screen content, perform voice-directed taps, scrolling, and navigation gestures on your behalf.</string>
+</resources>

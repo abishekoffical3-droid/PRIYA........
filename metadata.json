@@ -1,0 +1,6 @@
+{
+  "name": "PRIYA AI",
+  "description": "Your intelligent personal AI companion by AB-DEV-STUDIO",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
